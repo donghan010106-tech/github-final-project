@@ -15,3 +15,4 @@ Where:
 1. Clone the repository.
 2. Run the `simple-interest.sh` script.
 3. Enter the principal, interest rate, and time when prompted.
+Update for task 7
