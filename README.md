@@ -1,19 +1,17 @@
-# Final Project – GitHub and Git CLI
+# Simple Interest Calculator
 
-## Project Name
+A simple calculator application that calculates simple interest given principal, annual rate of interest, and time period in years.
 
-Final Project – Part 1 GitHub UI and Part 2 Git CLI
+## Formula
+$A = P (1 + rt)$
 
-## Description
+Where:
+* $A$ = Total accumulated value (principal + interest)
+* $P$ = Principal amount
+* $r$ = Annual rate of interest
+* $t$ = Time period in years
 
-This project demonstrates basic GitHub repository management
-and Git command-line operations.
-
-## Author
-
-Your Name
-
-## Repository
-
-This repository contains the required files and Git CLI outputs
-for the final project.
+## How to use
+1. Clone the repository.
+2. Run the `simple-interest.sh` script.
+3. Enter the principal, interest rate, and time when prompted.
