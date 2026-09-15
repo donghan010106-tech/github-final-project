@@ -1,0 +1,5 @@
+git checkout main
+Already on 'main'
+git merge bug-fix-typo
+Updating 45570bb..89bf1bd
+ 1 file changed, 1 insertion(+)
