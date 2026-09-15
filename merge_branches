@@ -2,8 +2,5 @@ git checkout main
 Already on 'main'
 M	merge_branches
 Your branch is up to date with 'origin/main'.
-git merge fix-readme-branch
-Updating 4459f50..8e760c0
-Fast-forward
- README.md | 1 +
- 1 file changed, 1 insertion(+)
+git merge bug-fix-typo
+Already up to date.
